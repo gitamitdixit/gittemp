@@ -1,0 +1,11 @@
+adding something
+
+:wq
+
+git status
+
+
+git log
+
+adding to delete
+
