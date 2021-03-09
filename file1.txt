@@ -8,4 +8,4 @@ git status
 git log
 
 adding to delete
-
+now lets try to reset it. It should not delete
